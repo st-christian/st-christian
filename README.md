@@ -1,14 +1,15 @@
 ## Hello visitor :wave:!<br>  
 ### It seems you've stumbled upon my page :raccoon:.  Don't worry, I won't ask for your credit card number :see_no_evil:.
 
-🎓:video_game: I am a Master's student in Mobile Computing with interest in game development. <br>
+🎓:video_game: I am a Master's student in Mobile Computing with interest in Game Development. <br>
 💼 Alongside my studies, I am also working as a Research Associate, with a focus on mixed reality and augmented reality.
 
 🔭 I’m currently working on my Masterthesis and the game ZomBreak.
 
 Feel free to browse through the projects! If you have any questions, feel free to contact me :grinning:. <br>
-:video_game: Projects --> [Portfolio Link](https://st-christian.github.io/Portfolio/) <br>
-Enjoy your time here!
+:video_game: Projects --> [Portfolio Link](https://st-christian.github.io/Portfolio/) 
+
+Enjoy your time here :tada:!
 <!--
 **st-christian/st-christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
