@@ -2,7 +2,7 @@
 ### It seems you've stumbled upon my page :raccoon:.  Don't worry, I won't ask for your credit card number :see_no_evil:.
 
 🎓:video_game: I am a Master's student in Mobile Computing with interest in Game Development. <br>
-💼 Alongside my studies, I am also working as a Research Associate, with a focus on mixed reality and augmented reality.
+💼 Alongside my studies, I am also working as a Research Associate, with a focus on mixed / augmented reality.
 
 🔭 I’m currently working on my Masterthesis and the game ZomBreak.
 
